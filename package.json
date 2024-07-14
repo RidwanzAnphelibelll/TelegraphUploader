@@ -1,0 +1,17 @@
+{
+  "name": "TelegraphUploader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RidwanzSaputra",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "stream-to-array": "2.3.0",
+    "form-data": "4.0.0",
+    "node-fetch": "2.6.11",
+    "express": "^4.19.2",
+    "chalk": "^4.1.1",
+    "fs": "^0.0.1-security"
+  }
+}
